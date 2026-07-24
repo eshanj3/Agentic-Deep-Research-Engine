@@ -1,0 +1,22 @@
+# Environment
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Streamlit
+frontend/.streamlit/secrets.toml
